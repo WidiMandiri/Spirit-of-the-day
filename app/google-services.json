@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "646964073620",
+    "project_id": "spirit-of-the-day",
+    "storage_bucket": "spirit-of-the-day.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646964073620:android:ef8979fc893958e3b8d081",
+        "android_client_info": {
+          "package_name": "com.example.spiritoftheday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646964073620-2pbat2as5cog3hnqt6p8rv83ac0fnjtk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbeGrnaVKRKSWdPJFhk_rrOXI6draJvDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646964073620-2pbat2as5cog3hnqt6p8rv83ac0fnjtk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
