@@ -1,5 +1,9 @@
 package com.example.spiritoftheday;
 
+// Nama : Widi Malikul Mulky
+// Nim : 10120064
+// Kelas : IF2
+
 import android.content.Context;
 import android.content.Intent;
 import android.view.LayoutInflater;
