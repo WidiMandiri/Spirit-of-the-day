@@ -1,5 +1,9 @@
 package com.example.spiritoftheday;
 
+// Nama : Widi Malikul Mulky
+// Nim : 10120064
+// Kelas : IF2
+
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
